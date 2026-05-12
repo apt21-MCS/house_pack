@@ -265,13 +265,3 @@ This document provides a full breakdown of every mod file in the current instanc
 
 * **1.8.1+1.20.1+forge.jar**: Unidentified; likely a specific rendering dependency or a renamed version of a small utility.
 * **Ninjag Bugfix** (`ninjag-yetanotherbugfixyay.jar`): A custom patch mod, likely for a specific server or mod conflict.
-
----
-
-### 💡 Additional Ideas for your GitHub Page:
-
-1. **Dependency Visualization:** You have many "Library" mods (GeckoLib, AzureLib, PuzzlesLib). Adding a small table showing which libraries are required for which content mods would help if you ever need to troubleshoot.
-2. **Keybind Conflict List:** You have **Better Combat**, **Carry On**, **Combat Roll**, and **InvMove**. These have overlapping default keys. Adding a "Recommended Keybinds" section would be very helpful for your users.
-3. **Performance Tiers:** Since you have **Embeddium** and **ModernFix**, you could include a small "Recommended Settings" section for low-end vs. high-end PCs to maximize the benefit of those optimization mods.
-
-Is there anything else I can help you with today?
