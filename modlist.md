@@ -168,10 +168,6 @@ This document provides a full breakdown of every mod file in the current instanc
 * **Longer Chat History** (`LongerChatHistory-1.3-Forge.jar`): Extends the number of lines kept in the chat history.
 * **TIA** (`tia-1.20-1.1-forge.jar`): "This Is Advancements" - Overhauls the advancements UI for better visibility.
 
-### 📂 Server-Only
-
-* **Async Locator** (`async-locator-forge-1.20-1.3.0.jar`): Prevents server lag when using /locate by offloading the task to a thread.
-
 ---
 
 ## ⚡ Optimization Mods
@@ -204,6 +200,7 @@ This document provides a full breakdown of every mod file in the current instanc
 
 ### 📂 Server-Only
 
+* **Async Locator** (`async-locator-forge-1.20-1.3.0.jar`): Prevents server lag when using /locate by offloading the task to a thread.
 * **Mobtimizations** (`mobtimizations-forge-1.20.1-1.0.0.jar`): Optimizes mob AI pathfinding to reduce server CPU load.
 * **Fast IP Ping** (`fast-ip-ping-v1.0.11-mc1.20.4-forge.jar`): Improves the efficiency of server list pinging and connectivity checks.
 
