@@ -131,6 +131,7 @@ This document provides a full breakdown of every mod file in the current instanc
 * **EMI Enchanting** (`emi_enchanting-0.1.2+1.20.1+forge.jar`): A plugin for EMI to view enchantment possibilities.
 * **PB Easy Workbench** (`pbeasyworkbench-1.20.1-1.0.5.jar`): A crafting utility specifically for the Point Blank firearm mod.
 * **TicEnch** (`ticench-0.2.jar`): Adds enchantment-like mechanics for Tinkers' Construct tools.
+* **Watut** (`watut-forge-1.20.1-1.2.3.jar`): A utility library for world and entity tagging.
 
 ### 📂 Client-Only
 
@@ -255,7 +256,6 @@ This document provides a full breakdown of every mod file in the current instanc
 * **SuperMartijn642 Core Lib** (`supermartijn642corelib-1.1.21-forge-mc1.20.1.jar`): A base library for SuperMartijn642's mods.
 * **TerraBlender** (`TerraBlender-forge-1.20.1-3.0.1.10.jar`): A library for adding custom biomes safely.
 * **YUNG's API** (`YungsApi-1.20-Forge-4.0.6.jar`): A library used by all "YUNG's" structure mods.
-* **Watut** (`watut-forge-1.20.1-1.2.3.jar`): A utility library for world and entity tagging.
 
 ---
 
