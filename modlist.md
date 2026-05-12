@@ -1,4 +1,4 @@
-This is a complete, exhaustive breakdown of all 217 files provided, categorized for a GitHub Markdown page. Due to the high volume of mods, I have organized them strictly by your criteria to ensure no mod was left out.
+This is a complete, exhaustive breakdown of all 217 mods. 
 
 ---
 
