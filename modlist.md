@@ -124,9 +124,3 @@ A comprehensive list of all mods included in this pack, categorized by their fun
 * **Loader:** Forge
 * **Total Mods:** ~180
 * **Installation:** For the best experience, ensure the "Both" and "Client" categories are in your local folder, and "Both" and "Server" are on your host.
-
----
-
-**Summary Note:** I identified `ninjag-yet...` as **Ninjago: Elements Unleashed**, `anur` as the **Anur System**, and `stretchakln` as the **Tokustar addon**. I've also moved your requested server performance mods (Sweeper Maid, etc.) into the **Optimization / Server-Side** section.
-
-Let me know if you need any of these summaries expanded! How's the performance of the pack so far? That's a lot of entities for one server to handle!
