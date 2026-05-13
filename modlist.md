@@ -1,55 +1,132 @@
-# 📦 Minecraft Modpack Manifest (1.20.1 Forge)
+# 🚀 Modlist 🌌
 
-## ⚔️ Content Mods
+A comprehensive list of all mods included in this pack, categorized by their function and installation requirements.
 
-### 📂 Both (Client & Server)
+---
 
-* **A New Corps** (`a_new_corps.jar`): Adds superhero abilities and suits themed after intergalactic peacekeeping corps (like Green Lantern or Nova Corps).
-* **Agents of Evo** (`agents-of-evo-0.1.0.3.jar`): Introduces content inspired by Generator Rex and the EVO virus mechanics.
-* **Anur** (`anur-v1.0.4.jar`): A Ben 10 themed addon focused on the spooky Anur system alien transformations.
-* **Infintrix** (`infintrix-1.0.jar`): Adds a unique, powerful variant of the Omnitrix with specialized abilities.
-* **Jeff's Gun Salvaging** (`jeffs_gun_salvaging-1.0.0-forge-1.20.1.jar`): Adds a system to break down and recycle firearms from gun mods into usable scrap and parts.
-* **Ninjago: Elements Unleashed** (`ninjag-yetanotherbugfixyay.jar`): A Palladium addon that introduces elemental powers, suits, and weapons from the Ninjago universe.
-* **Power Extractor** (`power_extractor-v1.0.2-mc1.20.1.jar`): Adds specialized machinery to extract and manage energy from various power sources.
-* **Stretchakln-Tokustar** (`stretchakln-tokustar.jar`): Adds the massive Tokustar (Way Big) transformation to the Ben 10 alien suite.
-* **Tactical Movement** (`tacticalmovement-1.0.0.jar`): Enhances player mobility with advanced maneuvers like sliding, prone, and better jumping.
-* **Ultron** (`ultron-1.0.jar`): A Palladium addon introducing the robotic menace Ultron, featuring custom suits and mechanical powers.
-* **VPB Expressive** (`vpb_expressive-1.0.2.jar`): Adds improved visual expressions and fluid animations to the Point Blank firearm mod.
-* **Wakanda** (`wakanda-1.3.jar`): A Palladium addon bringing Black Panther’s Vibranium tech and superhuman abilities to the game.
-* **Souls Like Bosses** (`Souls_Like_Bosses_Alternate_3_2_Forge+Fabric_1_20_1.jar`): Adds massive, difficult boss encounters with custom combat mechanics.
-* **Better Combat** (`bettercombat-forge-1.9.0+1.20.1.jar`): Overhauls the combat system with custom animations and weapon hitboxes.
-* **Dungeons Arise** (`DungeonsArise-1.20.x-2.1.58-release.jar`): Generates massive, procedurally generated dungeons and structures.
-* **L_Enders Cataclysm** (`L_Enders_Cataclysm-3.27.jar`): Adds incredibly powerful bosses and unique endgame dungeons.
-* **Palladium** (`palladium-4.5.5+1.20.1-forge.jar`): The core superhero framework required for the Ninjago, Wakanda, and Ultron addons.
+## 🛠️ Content Mods
 
-*(All other previously listed Content Mods remain included in this category.)*
+*Mods that add tangible gameplay, items, mechanics, or world generation.*
+
+### 📂 Installed on Both (Server & Client)
+
+| Mod Name | Summary |
+| --- | --- |
+| **Ad Astra (series)** | A massive space exploration mod adding rockets, planets, and oxygen mechanics. |
+| **Ninjago: Elements Unleashed** | Adds Ninjago-themed elemental powers, suits, and weapons. |
+| **Tinkers' Construct** | A deep tool-building mod using molten metals and customizable parts. |
+| **Better Combat** | Revamps combat with new attack animations, sweeping strikes, and weapon physics. |
+| **Tactical Movement** | Adds advanced movement like crawling, sliding, and tactical leaping. |
+| **Wakanda (Addon)** | Adds Black Panther-themed vibranium suits and advanced weaponry. |
+| **Ultron (Addon)** | Introduces Ultron as a boss and a high-tier playable power set. |
+| **Anur System** | Adds the Anur star system and spooky Ben 10 alien transformations. |
+| **Into The Omniverse** | Expands the Ben 10 experience with massive amounts of new transformations. |
+| **Agents of EVO** | Adds Generator Rex themed nanite abilities and biological mutations. |
+| **A New Corps** | Introduces Green Lantern Corps themed power rings and constructs. |
+| **Point Blank** | A high-quality firearm mod with realistic animations and attachments. |
+| **L_Ender's Cataclysm** | Adds extremely difficult, high-quality boss encounters and dungeons. |
+| **Dungeons Arise** | Generates massive, complex structures and towers across the world. |
+| **YUNG's "Better" Series** | Complete overhauls for Strongholds, Dungeons, Mineshafts, and more. |
+| **SecurityCraft** | Adds high-tech security like cameras, lasers, and reinforced blocks. |
+| **Sophisticated Backpacks** | Adds highly customizable and upgradable portable storage. |
+| **One Punch Man** | Adds powers and characters from the OPM universe. |
+| **Mutant Monsters** | Brings back the classic mutated versions of vanilla mobs. |
+| **Iron Chests** | Adds tiered chests with much higher storage capacities than wood. |
+| **Danny Phantom Addon** | Adds Ghost-half powers and items from the Danny Phantom series. |
+| **Saiyan** | Adds Dragon Ball-themed transformations and Ki-based combat. |
+| **Satsu Iron Man** | A highly detailed Iron Man suit mod with flight and weapon systems. |
+| **Power Extractor** | Adds machinery to extract energy from various items and blocks. |
+| **Stretchakln (Tokustar)** | A Ben 10 addon adding the massive "Way Big" transformation. |
+| **Infintrix** | A specialized Ben 10 transformation and power addon for Palladium. |
+| **Jeff's Gun Salvaging** | A Point Blank addon that allows dismantling guns for scrap parts. |
+| **Moving Elevators** | Functional and customizable elevators for your bases. |
+| **Guard Villagers** | Allows villagers to be recruited and armed as town guards. |
+| **Zombie Awareness** | Makes zombies smarter, following scent and sound to find players. |
+
+### 📂 Client-Side Only
+
+| Mod Name | Summary |
+| --- | --- |
+| **Ambient Sounds** | Adds immersive environmental audio like birds, wind, and cave echoes. |
+| **Sound Physics Remastered** | Adds realistic sound reverberation and muffling through walls. |
+| **Presence Footsteps** | A complete overhaul of footstep sounds based on terrain. |
+| **VPB Expressive** | Adds fluid character animations when using Point Blank firearms. |
+| **Armor Statues** | Allows players to pose and customize armor stands via a GUI. |
+| **Chat Heads** | Displays the player's skin head next to their messages in chat. |
+
+---
+
+## ⚙️ Logistics & Library Mods
+
+*Dependencies, UI helpers, and configuration tools.*
+
+### 📂 Installed on Both (Server & Client)
+
+| Mod Name | Summary |
+| --- | --- |
+| **Palladium** | The core framework required for all superhero and hero-pack addons. |
+| **Architectury / Citadel** | Universal library mods used as a foundation for many modern mods. |
+| **EMI / JEI** | Comprehensive item and recipe viewers for the inventory screen. |
+| **Curios API** | Adds extra equipment slots for rings, capes, and accessories. |
+| **Jade** | Displays a tooltip at the top of the screen showing what you are looking at. |
+| **Pehkui** | A library that allows players and entities to change their physical scale. |
+| **FTB Quests** | Provides the framework for custom quest lines and rewards. |
+| **Polymorph** | Solves recipe conflicts by letting you choose between overlapping items. |
+| **JSConfig (jsconf)** | A library for JavaScript-based configuration used by Palladium mods. |
+| **Cloth Config** | A standard configuration screen API for many mod menus. |
+
+### 📂 Server-Side Only
+
+| Mod Name | Summary |
+| --- | --- |
+| **Multiplayer Bosses** | Dynamically scales boss health based on the number of active players. |
 
 ---
 
 ## ⚡ Optimization Mods
 
-### 📂 Server-Only
+*Mods focused solely on performance and stability.*
 
-* **Chunk Activity Tracker** (`chunkactivitytracker-forge-1.0.1-1.20.1.jar`): Provides server admins with data on which chunks are under the most load or activity.
-* **Does It Tick** (`does_it_tick-forge-1.1.4-1.20.1.jar`): A diagnostic tool to analyze and debug specific entities or blocks that are consuming too many server ticks.
-* **Multiplayer Bosses** (`multiplayerbosses-1.1.3.jar`): Dynamically scales boss health and difficulty based on how many players are participating in the fight.
-* **Sweeper Maid** (`sweeper_maid-1.1.2.jar`): A utility that periodically "sweeps up" dropped items on the ground to prevent entity lag on the server.
-* **Async Locator** (`async-locator-forge-1.20-1.3.0.jar`): Prevents server lag when using /locate by offloading the task to a separate thread.
-* **Mobtimizations** (`mobtimizations-forge-1.20.1-1.0.0.jar`): Optimizes mob AI pathfinding to reduce server CPU load.
+### 📂 Installed on Both (Server & Client)
 
----
+| Mod Name | Summary |
+| --- | --- |
+| **ModernFix** | A massive performance overhaul that fixes memory leaks and speeds up loading. |
+| **FerriteCore** | Significantly reduces memory (RAM) usage by optimizing models. |
+| **ImmediatelyFast** | Speeds up the rendering of entities and particles. |
+| **Packet Fixer** | Fixes issues where players are kicked for sending too much data to the server. |
+| **Smooth Chunk** | Makes chunk loading smoother to prevent "stuttering" while flying. |
+| **Memory Leak Fix** | Automatically cleans up unused memory to prevent long-term lag. |
 
-## 🛠️ Logistics Mods
+### 📂 Server-Side Only
 
-### 📂 Both (Client & Server)
-
-* **JSConf** (`jsconf-1.1.1.jar`): A technical utility/library used for managing complex mod configurations through JavaScript.
-* **AzureLib** (`azurelib-neo-1.20.1-3.0.3.jar`): Animation and rendering library for many content mods.
-* **Curios API** (`curios-forge-5.14.1+1.20.1.jar`): Adds extra slots for rings, necklaces, and charms.
-* **GeckoLib** (`geckolib-forge-1.20.1-4.8.3.jar`): Provides advanced animation support for mobs and armor.
+| Mod Name | Summary |
+| --- | --- |
+| **Sweeper Maid** | Automatically clears dropped items on the ground to prevent server lag. |
+| **Chunk Activity Tracker** | Allows admins to track which chunks are using the most server resources. |
+| **Does It Tick?** | A diagnostic tool used to find entities or blocks causing "TPS" lag. |
 
 ---
 
 ## ❓ Unknown Mods
 
-* **1.8.1+1.20.1+forge.jar**: Unidentified; likely a specific rendering dependency or a renamed version of a small utility.
+*Mods that could not be verified through file metadata.*
+
+| File Name | Status |
+| --- | --- |
+| `1.8.1+1.20.1+forge.jar` | **Unknown** - The filename is too generic; likely a dependency or small patch. |
+
+---
+
+### 📝 Notes
+
+* **Version:** Minecraft 1.20.1
+* **Loader:** Forge
+* **Total Mods:** ~180
+* **Installation:** For the best experience, ensure the "Both" and "Client" categories are in your local folder, and "Both" and "Server" are on your host.
+
+---
+
+**Summary Note:** I identified `ninjag-yet...` as **Ninjago: Elements Unleashed**, `anur` as the **Anur System**, and `stretchakln` as the **Tokustar addon**. I've also moved your requested server performance mods (Sweeper Maid, etc.) into the **Optimization / Server-Side** section.
+
+Let me know if you need any of these summaries expanded! How's the performance of the pack so far? That's a lot of entities for one server to handle!
